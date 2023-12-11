@@ -41,4 +41,4 @@ Upgrad and IIITB Faculty
 
 ## Contact
 Pooja pal @ppcoder0204
-https://github.com/ppcoder0204/Lending-Club-Case-Study.git
+https://github.com/ppcoder0204/LinearRegressionAssignment_BikeSharing.git
